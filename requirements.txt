@@ -1,5 +1,4 @@
 dialogflow==0.6.0
 Flask==1.0.2
-python==3.7.3
 python-dotenv==0.10.2
 requests==2.21.0
